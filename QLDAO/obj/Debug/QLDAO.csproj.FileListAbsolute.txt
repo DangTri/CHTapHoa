@@ -1,0 +1,49 @@
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\obj\Debug\QLDAO.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\obj\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLDAO\obj\Debug\QLDAO.pdb

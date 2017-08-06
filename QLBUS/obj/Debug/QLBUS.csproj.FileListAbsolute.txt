@@ -1,0 +1,63 @@
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\obj\Debug\QLBUS.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\obj\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\QLBUS\obj\Debug\QLBUS.pdb

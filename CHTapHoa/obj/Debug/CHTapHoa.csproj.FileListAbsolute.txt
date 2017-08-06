@@ -1,0 +1,233 @@
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\DA\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\devcomponents.dotnetbar2.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Dang Minh Tri\Desktop\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CReport.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.DateHoaDon.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CReport.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.DateHoaDon.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Dang Minh Tri\Desktop\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.DateHoaDon.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPhamBanChay.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhoangThoiGianHD.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmThongKeBaoCao.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRHoaDonNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPhamHetHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhapHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmTatCaHoaDon.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonBanHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\DATN\DATN\DA1_2\DA1\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\BaoCaoTotNghiep\CuonBaoCaoTotNghiep\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\BaoCaoTotNghiep\CuonBaoCaoTotNghiep\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Đồ Án Tốt Nghiệp\ARon\BaoCaoTotNghiep\CuonBaoCaoTotNghiep\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe.config
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.exe
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\CHTapHoa.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\aa\CHTapHoa.resources.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.dll
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLBUS.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLDTO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\bin\Debug\QLDAO.pdb
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPhamBanChay.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhoangThoiGianHD.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmThongKeBaoCao.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRHoaDonNhanVien.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPhamHetHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhapHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmTatCaHoaDon.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRKhachHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhaCungCap.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRNhanVien.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.CRSanPham.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonBanHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmBanHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDangNhap.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmDoiMatKhau.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonNhap.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmHoaDonXuat.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmKhachHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhaCungCap.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhanVien.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmNhapHang.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.frmSanPham.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Properties.Resources.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.Form1.aa.resources
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\CHTapHoa.exe.licenses
+C:\Users\Ron\Desktop\Tốt Nghiệp\CHTapHoa\CHTapHoa\obj\Debug\aa\CHTapHoa.resources.dll
